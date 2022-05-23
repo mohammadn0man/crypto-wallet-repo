@@ -23,19 +23,20 @@ mvn spring-boot:run
 
 - [Postman Collection Link](https://www.getpostman.com/collections/05c06ee7aa225f544ea9)
 - List
-  - https://social-app-noman.herokuapp.com/api/user/signup
-  - https://social-app-noman.herokuapp.com/api/user/authenticate
-  - https://social-app-noman.herokuapp.com/api/post/add
-  - https://social-app-noman.herokuapp.com/api/user/logout
-  - https://social-app-noman.herokuapp.com/api/post/get/{username}
-  - https://social-app-noman.herokuapp.com/api/follower/add
-  - https://social-app-noman.herokuapp.com/api/user/all
+  - https://crypto-wallet-repo.herokuapp.com/api/user/signup
+  - https://crypto-wallet-repo.herokuapp.com/api/user/authenticate
+  - https://crypto-wallet-repo.herokuapp.com/api/post/add
+  - https://crypto-wallet-repo.herokuapp.com/api/user/logout
+  - https://crypto-wallet-repo.herokuapp.com/api/post/get/{username}
+  - https://crypto-wallet-repo.herokuapp.com/api/coin/add
+  - https://crypto-wallet-repo.herokuapp.com/api/user/all
 
 
 # Test Server 
 
-- [Test url](https://social-app-noman.herokuapp.com/api/user/test)
+- [Test url](https://crypto-wallet-repo.herokuapp.com/api/user/test)
 - This will give ![img.png](img.png)
 - Response of test user's data
 
+![img_1.png](img_1.png)
 
