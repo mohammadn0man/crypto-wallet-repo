@@ -21,22 +21,25 @@ mvn spring-boot:run
 
 # Api Collection
 
-- [Postman Collection Link](https://www.getpostman.com/collections/05c06ee7aa225f544ea9)
 - List
   - https://crypto-wallet-repo.herokuapp.com/api/user/signup
   - https://crypto-wallet-repo.herokuapp.com/api/user/authenticate
-  - https://crypto-wallet-repo.herokuapp.com/api/post/add
   - https://crypto-wallet-repo.herokuapp.com/api/user/logout
-  - https://crypto-wallet-repo.herokuapp.com/api/post/get/{username}
   - https://crypto-wallet-repo.herokuapp.com/api/coin/add
-  - https://crypto-wallet-repo.herokuapp.com/api/user/all
+  - https://crypto-wallet-repo.herokuapp.com/api/coin/get/{username}
 
+# Samples
 
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
+![img_3.png](img_3.png)
+![img_4.png](img_4.png)
+![img_5.png](img_5.png)
+  
 # Test Server 
 
 - [Test url](https://crypto-wallet-repo.herokuapp.com/api/user/test)
 - This will give ![img.png](img.png)
 - Response of test user's data
 
-![img_1.png](img_1.png)
 
